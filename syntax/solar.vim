@@ -3,7 +3,11 @@
 " Maintainer:   Giuliani Sanches (giulianit at gmail dot com)
 " URL:          http://giulianisanches.blogspot.com
 " Last Change:  2007 Novembro 19
-" Version:	0.1
+" Version:	0.1.1
+"
+" ###################################################################################################
+" Based on Armin Ronacher mako.vim syntax file (http://www.vim.org/scripts/script.php?script_id=1858)
+" ###################################################################################################
 "
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
