@@ -1,9 +1,9 @@
 " Vim syntax file
-" Language:     Solar View Templates
+" Language:     PHP Templates (Solarphp, PHPSavant etc...)
 " Maintainer:   Giuliani Sanches (giulianit at gmail dot com)
 " URL:          http://giulianisanches.blogspot.com
-" Last Change:  2007 Novembro 19
-" Version:	0.1.1
+" Last Change:  2007 Novembro 20
+" Version:	0.1.2
 "
 " ###################################################################################################
 " Based on Armin Ronacher mako.vim syntax file (http://www.vim.org/scripts/script.php?script_id=1858)
